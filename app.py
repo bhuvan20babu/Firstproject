@@ -1,6 +1,6 @@
 a = 22
 b = 5
 c = 4
-d = 2
+d = 1
 
 print(a + b + c + d)
